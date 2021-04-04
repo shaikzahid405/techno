@@ -1,0 +1,20 @@
+.layout {
+  text-align: center;
+}
+
+.layout_body {
+  text-align: center;
+  margin: 0 auto;
+  width: 950px;
+  max-width: 90vw;
+  color: gray;
+  font-weight: 500;
+}
+
+.layout_title {
+  color: rgba(27, 27, 173, 0.712);
+}
+
+.layout_topics {
+  display: flex;
+}
